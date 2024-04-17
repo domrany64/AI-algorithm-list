@@ -4,6 +4,7 @@ The structure organizes these algorithms into categories and subcategories to pr
 Each algorithm is presented within its respective category, allowing for easy navigation and understanding of the AI and ML landscape.
 
 Current output:
+```
 └── Artificial Intelligence (AI)               
     ├── Machine Learning                            
     │   ├── Deep Learning                       
@@ -124,3 +125,4 @@ Current output:
     ├── Evolutionary Strategies (ES)                                                                                                                                                        
     ├── Sparse Coding                                                                                                                                                                       
     └── Temporal-Difference Learning (TD Learning)
+```
