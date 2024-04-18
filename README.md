@@ -80,6 +80,7 @@ Current output:
         │       │   ├── Recurrent Neural Networks
         │       │   └── Long Short-Term Memory
         │       ├── Graph-based Learning
+        │       │   ├── Graph Neural Networks (GNNs)
         │       │   ├── Graph Convolutional Networks
         │       │   ├── Graph Attention Networks
         │       │   └── Graph Embedding
@@ -124,9 +125,7 @@ Current output:
         │   ├── Semantic Networks
         │   ├── Frames
         │   └── Ontologies
-        ├── Deep Q-Networks (DQN)
         ├── Variational Inference (VI)
-        ├── Graph Neural Networks (GNNs)
         ├── Meta-Learning Algorithms
         ├── Evolutionary Strategies (ES)
         ├── Sparse Coding

@@ -104,6 +104,7 @@ IT_category = Category("Information Technology (IT)", [
                     Category("Long Short-Term Memory")
                 ]),
                 Category("Graph-based Learning", [
+                    Category("Graph Neural Networks (GNNs)"),
                     Category("Graph Convolutional Networks"),
                     Category("Graph Attention Networks"),
                     Category("Graph Embedding")
@@ -160,9 +161,7 @@ IT_category = Category("Information Technology (IT)", [
             Category("Frames"),
             Category("Ontologies")
         ]),
-        Category("Deep Q-Networks (DQN)"),
         Category("Variational Inference (VI)"),
-        Category("Graph Neural Networks (GNNs)"),
         Category("Meta-Learning Algorithms"),
         Category("Evolutionary Strategies (ES)"),
         Category("Sparse Coding"),
